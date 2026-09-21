@@ -65,8 +65,8 @@ User Question ──► Semantic Retrieval (Threshold Gate) ──► Grounded P
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Nilay-11/promptshiedX.git
-cd promptshiedX
+git clone https://github.com/Nilay-11/waterwise.git
+cd waterwise
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -80,6 +80,6 @@ streamlit run streamlit_app.py
 ## ☁️ Streamlit Cloud Deployment
 
 1. Go to [share.streamlit.io](https://share.streamlit.io).
-2. Select your repository: `Nilay-11/promptshiedX` (or your renamed repo).
+2. Select your repository: `Nilay-11/waterwise`.
 3. Main file path: `streamlit_app.py`
 4. Click **Deploy!**
