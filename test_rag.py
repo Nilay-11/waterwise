@@ -3,7 +3,10 @@ import os
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from waterwise.rag_engine import WaterWiseRAG
+try:
+    from rag_engine import WaterWiseRAG
+except ImportError:
+    from waterwise.rag_engine import WaterWiseRAG
 
 def run_tests():
     rag = WaterWiseRAG()

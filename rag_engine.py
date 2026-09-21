@@ -1,6 +1,6 @@
 import os
 import json
-import requests
+from typing import Dict, Any, List, Optional
 try:
     from embeddings import KnowledgeVectorStore
 except ImportError:
