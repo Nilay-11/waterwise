@@ -1,0 +1,72 @@
+[
+  {
+    "id": "who_dwq_01",
+    "source": "WHO Guidelines for Drinking-water Quality (4th Edition)",
+    "topic": "Water Safety Plans (WSP)",
+    "section": "Chapter 4: Water Safety Plans",
+    "content": "A Water Safety Plan (WSP) is the most effective means of consistently ensuring the safety of a drinking-water supply. A WSP comprises three key components: (1) System assessment to determine whether the drinking-water supply chain (from source through treatment and distribution to the point of consumption) can deliver water of a quality that meets identified targets; (2) Operational monitoring of the control measures in the supply chain; and (3) Management and communication plans describing actions to be taken during normal operation or incident conditions. The primary objective is to prevent contamination at the source, reduce or remove contamination through treatment, and prevent re-contamination during storage and distribution."
+  },
+  {
+    "id": "who_dwq_02",
+    "source": "WHO Guidelines for Drinking-water Quality (4th Edition)",
+    "topic": "Household Water Treatment and Safe Storage (HWTS)",
+    "section": "Chapter 7: Microbial Aspects & Household Treatment",
+    "content": "Household Water Treatment and Safe Storage (HWTS) interventions significantly reduce diarrhoeal disease in vulnerable populations. Recommended household treatment methods include: (1) Boiling: Bringing water to a rolling boil for at least 1 minute destroys bacteria, viruses, and protozoan parasites; (2) Solar disinfection (SODIS): Exposing water in clear PET bottles to sunlight for 6 hours (or 2 days under overcast sky); (3) Chlorination: Using sodium hypochlorite to achieve a free chlorine residual of 0.2 to 0.5 mg/L after 30 minutes contact time; (4) Filtration: Using ceramic, biosand, or membrane filters to remove turbidity and protozoan cysts. Safe storage requires narrow-mouthed, covered containers with a tap or spigot to prevent hand-to-water contact."
+  },
+  {
+    "id": "who_dwq_03",
+    "source": "WHO Guidelines for Drinking-water Quality (4th Edition)",
+    "topic": "Key Chemical and Microbiological Parameters",
+    "section": "Chapter 8: Chemical Contaminants",
+    "content": "Drinking-water must not contain microbiological pathogens or hazardous chemical concentrations. Escherichia coli (E. coli) or thermotolerant coliform bacteria must not be detectable in any 100 mL sample. Key chemical guideline values: Arsenic guideline value is 0.01 mg/L (10 µg/L) due to carcinogenicity risks; Fluoride guideline value is 1.5 mg/L to prevent dental and skeletal fluorosis; Nitrate guideline value is 50 mg/L (as NO3-) to prevent methaemoglobinaemia in bottle-fed infants; Lead guideline value is 0.01 mg/L (10 µg/L); Turbidity should ideally be below 1 NTU for effective disinfection."
+  },
+  {
+    "id": "un_sdg6_01",
+    "source": "UN-Water SDG 6 Synthesis Report on Water and Sanitation",
+    "topic": "SDG 6 Targets and Global Priorities",
+    "section": "Executive Summary & Target Overview",
+    "content": "Sustainable Development Goal 6 (SDG 6) aims to ensure availability and sustainable management of water and sanitation for all by 2030. Key targets include: Target 6.1: Achieve universal and equitable access to safe and affordable drinking water for all. Target 6.2: Achieve access to adequate and equitable sanitation and hygiene for all, ending open defecation with special attention to women and girls. Target 6.3: Improve water quality by reducing pollution, eliminating dumping, minimizing release of hazardous chemicals, halving the proportion of untreated wastewater, and substantially increasing recycling and safe reuse globally. Target 6.4: Substantially increase water-use efficiency across all sectors and ensure sustainable withdrawals."
+  },
+  {
+    "id": "un_sdg6_02",
+    "source": "UN-Water / UNEP Global Wastewater Assessment",
+    "topic": "Stages of Wastewater Treatment",
+    "section": "Chapter 3: Municipal Wastewater Treatment Technologies",
+    "content": "Municipal and industrial wastewater treatment involves sequential stages: (1) Preliminary Treatment: Physical removal of coarse debris, rags, grit, and large floating solids using bar screens and grit chambers; (2) Primary Treatment: Physical sedimentation where settleable solids sink to form primary sludge, and floating grease/scum is skimmed off, reducing total suspended solids (TSS) by 50-70% and BOD by 25-40%; (3) Secondary (Biological) Treatment: Microorganisms consume dissolved organic matter through aerobic processes (activated sludge, trickling filters, moving bed biofilm reactors) or anaerobic digestion; (4) Tertiary / Advanced Treatment: Nutrient removal (nitrogen and phosphorus removal), microfiltration, reverse osmosis, or activated carbon adsorption; (5) Disinfection: Elimination of pathogenic microorganisms using chlorination, UV irradiation, or ozonation before discharge or reuse."
+  },
+  {
+    "id": "un_sdg6_03",
+    "source": "WHO / UNICEF JMP Sanitation and Hygiene Report",
+    "topic": "Sanitation Ladder and Health Impacts",
+    "section": "Section 2: Safely Managed Sanitation Services",
+    "content": "The Joint Monitoring Programme (JMP) defines the sanitation ladder: (1) Safely Managed: Use of improved facilities that are not shared with other households and where excreta are safely disposed in situ or transported and treated off-site; (2) Basic: Use of improved facilities not shared with other households; (3) Limited: Use of improved facilities shared between two or more households; (4) Unimproved: Pit latrines without slabs, hanging latrines, or bucket latrines; (5) Open Defecation: Disposal of human faeces in fields, forests, open bodies of water, or beaches. Safe sanitation prevents transmission of cholera, dysentery, hepatitis A, typhoid, and polio, reducing antimicrobial resistance and child stunting."
+  },
+  {
+    "id": "india_jjm_01",
+    "source": "Government of India — Jal Jeevan Mission (JJM) Operational Guidelines",
+    "topic": "Har Ghar Jal & Rural Tap Water Standards",
+    "section": "Guidelines for Water Quality Monitoring & Surveillance",
+    "content": "Jal Jeevan Mission (JJM) under the Ministry of Jal Shakti aims to provide every rural household with a Functional Household Tap Connection (FHTC) providing 55 litres per capita per day (lpcd) of potable water on a regular and long-term basis. Water supplied must conform to Bureau of Indian Standards (BIS) IS 10500:2012. JJM mandates community surveillance through Village Water & Sanitation Committees (VWSC) / Paani Samitis. At the village level, 5 women in each village are trained to use Field Test Kits (FTKs) for testing 8-10 basic water quality parameters including pH, total hardness, alkalinity, chloride, nitrate, sulfate, iron, and residual chlorine."
+  },
+  {
+    "id": "india_sbm_01",
+    "source": "Ministry of Jal Shakti — Swachh Bharat Mission (Grameen) Phase II",
+    "topic": "ODF Plus and Solid & Liquid Waste Management (SLWM)",
+    "section": "Framework for ODF Plus Villages",
+    "content": "Under Swachh Bharat Mission (Grameen) Phase II, villages progress from Open Defecation Free (ODF) to ODF Plus. ODF Plus encompasses: (1) Sustained ODF status; (2) Biodegradable Waste Management via community compost pits and GOBARdhan (Galvanizing Organic Bio-Agro Resources Dhan) biogas plants; (3) Greywater Management through individual and community soak pits, leach pits, waste stabilization ponds (WSPs), and root zone treatment systems; (4) Plastic Waste Management through collection and shredding units for road construction; (5) Faecal Sludge Management (FSM) through mechanical emptying and co-treatment at urban STPs or dedicated Faecal Sludge Treatment Plants (FSTPs)."
+  },
+  {
+    "id": "unesco_wwdr_01",
+    "source": "UNESCO World Water Development Report (WWDR)",
+    "topic": "Nature-based Solutions (NbS) and Water Conservation",
+    "section": "Chapter 2: Ecosystems and Water Resource Management",
+    "content": "Nature-based Solutions (NbS) for water management use or mimic natural processes to enhance water availability (e.g., groundwater recharge, soil moisture retention), improve water quality (e.g., constructed wetlands, riparian buffer strips), and reduce risks from water-related disasters (e.g., floodplain restoration). Rainwater harvesting (RWH) from rooftops and surface catchments provides a low-cost, decentralized water supply for non-potable and potable uses after filtration. Managed Aquifer Recharge (MAR) captures excess seasonal floodwaters and routes them into underground aquifers to buffer against seasonal droughts and climate variability."
+  },
+  {
+    "id": "who_wash_emergency",
+    "source": "WHO / Sphere Standards in Humanitarian Response",
+    "topic": "WASH in Emergencies and Disasters",
+    "section": "Water Supply, Sanitation, and Hygiene Standards",
+    "content": "In disaster relief and emergency contexts, minimum humanitarian standards specify: (1) Water quantity: Minimum basic survival water requirement is 15 litres per person per day (7.5-15 L/day depending on climate and sanitation needs); (2) Water quality: 0 fecal coliforms per 100 mL at point of delivery; free residual chlorine of 0.5 mg/L at water collection point with turbidity < 5 NTU; (3) Access distance: Maximum distance from any shelter to the nearest water point should not exceed 500 meters; (4) Sanitation ratio: Maximum of 20 people per toilet, segregated by gender and equipped with handwashing stations with soap."
+  }
+]
